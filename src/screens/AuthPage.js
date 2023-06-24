@@ -13,13 +13,13 @@ import SignInPage from "./SignInPage";
 import ResetPasswordPage from "./ResetPasswordPage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC3HryTiR_-RnfnauBCdaW3brvb_IdOztg",
-  authDomain: "willeder-cecfe.firebaseapp.com",
-  projectId: "willeder-cecfe",
-  storageBucket: "willeder-cecfe.appspot.com",
-  messagingSenderId: "870395084946",
-  appId: "1:870395084946:web:fa274717f6370182e7a64b",
-  measurementId: "G-MTHYJZ1VJD",
+  apiKey: "AIzaSyAQSNe_auAiSV-BovDPpDfEWckECG1TXAs",
+  authDomain: "willeder-task-8bf63.firebaseapp.com",
+  projectId: "willeder-task-8bf63",
+  storageBucket: "willeder-task-8bf63.appspot.com",
+  messagingSenderId: "575213679344",
+  appId: "1:575213679344:web:897a9abdeb48aa801b4835",
+  measurementId: "G-JM0EQ8WQS7",
 };
 
 firebase.initializeApp(firebaseConfig);
